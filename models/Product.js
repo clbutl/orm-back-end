@@ -32,14 +32,6 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
     },
-    // tag_id: {
-    //   type: DataTypes.INTEGER,
-    //   allowNull: false,
-    //   references: {
-    //     model: 'product_tag',
-    //     key: 'tag_id'
-    //   }
-    // }
   },
   {
     sequelize,
