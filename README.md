@@ -1,5 +1,4 @@
 # orm-back-end
-  D
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Video Link
@@ -32,7 +31,7 @@
 
   ## <a style="text-decoration: none; color: rgb(210, 210, 210); font-weight: bold" id="license">License</a>
 
-  For more license information please click[Here!]()
+  For more license information please click [Here!]()
   
   ## <a style="text-decoration: none; color: rgb(210, 210, 210); font-weight: bold" id="testing">Test Instructions</a>
   
